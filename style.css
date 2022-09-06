@@ -1,0 +1,107 @@
+body{
+  background-image: url("gif/coffee.gif");
+  background-size: cover;
+  font-family: 'Qwitcher Grypen', cursive;
+  color: #F2EDD7FF;
+}
+
+.meet-btn-container{
+  text-align: center;
+}
+
+.portrait-btn-container{
+  display: inline-block;
+  text-align: right;
+}
+
+.index-btn-container{
+  text-align: left;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.btn-container{
+  margin-top: 20px;
+}
+
+.meet-btn{
+  font-family: Verdana;
+  background-color: #B99976;
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #F2EDD7FF;
+  border-radius: 50px;
+  width: 500px;
+}
+
+.meet-btn:hover{
+  cursor: pointer;
+  box-shadow: 3px 3px #664229;
+}
+
+.foryou{
+  text-align: center;
+  color: #F2EDD7FF;
+  font-size: 100px;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+
+.parent-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paper{
+  width: 500px;
+}
+
+.msg{
+  color: #F2EDD7FF;
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.msg-container{
+  position: absolute;
+  width: 450px;
+}
+
+
+
+  .meet-container{
+    display: inline-block;
+    width: 300px;
+    margin-left: 20px;
+    vertical-align: bottom;
+  }
+
+  .first-pic-container{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+  }
+
+  .first-pic{
+    width: 250px;
+    height: 60%;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 40px;
+  }
+
+
+  .first-meet-msg{
+    font-size: 30px;
+    margin-bottom: 5px;
+  }
+
+  .all-meet-container{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+  }
+
+
